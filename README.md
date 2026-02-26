@@ -20,20 +20,23 @@ The output of Instumentation amplifier is given by
 Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 # CIRCUIT DIAGRAM :
+
 <img width="1006" height="688" alt="image" src="https://github.com/user-attachments/assets/2e2a1028-ab0b-48d9-b679-362c29486953" />
 
 # TABULATION:
 | S.No | V1 (Volts) | V2 (Volts) | Vo = (Rf/R1)[1 + (2R’/R)] (V2 − V1) (Theoretical) | Vo (Practical) |
 |------|------------|------------|---------------------------------------------------|----------------|
-| 1    |            |            |                                                   |                |
-| 2    |            |            |                                                   |                |
-| 3    |            |            |                                                   |                |
+| 1    |       2     |      2.5      |        -2.7                                           |    - 2.6           |
+| 2    |       3     |      2      |           -5.4                                        |                -5.6|
+| 3    |      3.5      |    1.5        |  -8.1                                                   |     -8.5           |
 # MODEL GRAPH:
 
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/137f0429-9132-4da7-8832-c19c000f1db8" />
 
 # PRACTICAL GRAPH:
-PASTE UR GRAPH HERE.
+<img width="1053" height="1433" alt="image" src="https://github.com/user-attachments/assets/d36b432b-a160-45bb-b0d4-6baf0b499a37" />
+
+
 
 # PROCEDURE:
 
