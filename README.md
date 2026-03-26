@@ -34,7 +34,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/137f0429-9132-4da7-8832-c19c000f1db8" />
 
 # PRACTICAL GRAPH:
-<img width="1053" height="1433" alt="image" src="https://github.com/user-attachments/assets/d36b432b-a160-45bb-b0d4-6baf0b499a37" />
+<img width="353" height="513" alt="image" src="https://github.com/user-attachments/assets/0706c61a-ff67-4668-adcf-bce1183e4191" />
+
 
 
 
@@ -50,5 +51,6 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
   # RESULT:
 Thus an instrumentation amplifier was constructed and  tested using op-amp IC 741.
+
 
 
